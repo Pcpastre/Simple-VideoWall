@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6dd03495-994d-4ff5-80b4-57e72a7b89f0/AppServices/subscriptions/6dd03495-994d-4ff5-80b4-57e72a7b89f0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/pcpastre",
+    "appService.deploySubpath": "."
+}

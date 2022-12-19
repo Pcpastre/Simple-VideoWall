@@ -1,0 +1,75 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+.img{
+    border-radius: 50%;
+}
+
+@font-face {
+    font-family: Bangers;
+    src: url('/FONT?f=Bangers-Regular.ttf');
+}
+
+:root {
+    --backGroundInit: url('/IMG?img=siteBackGround.jpg');
+    --opacity: rgba(0, 0, 0, 0.25);
+    --opacity2: rgba(0, 0, 0, 0.55);
+    --overflow: 'hidden';
+}
+
+body {
+    
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: black;
+    
+    scroll-behavior: smooth;
+
+}
+
+.barraInit {
+    position: absolute;
+    width: 100vw;
+    height: 12.55vh;
+
+    background: rgba(132, 157, 188, 0.9);
+    border-radius: 1vh;
+
+}
+
+.home {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+
+    background: rgba(0, 0, 0, 0.9);
+    border-radius: 1vh;
+
+}
+
+.habili {
+
+    float: right;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: inline;
+    position: absolute;
+    width: 72vw;
+    height: 130vh;
+    left: 140vw;
+    top: 100vh;
+
+
+    background: rgba(255, 255, 255, 0.9);
+    border: 0.12vh solid #000000;
+    border-radius: 5vh;
+}
+
+ 
