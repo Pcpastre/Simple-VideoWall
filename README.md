@@ -1,4 +1,4 @@
-# Catavento
+# Simple VideoWall
 
 This is the main repository for the Simple-VideoWall software. The following folders contain the projects used:
 
